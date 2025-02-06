@@ -1,5 +1,5 @@
 import pyzipper
-import os
+import os, getpass
 from rich.panel import Panel
 from rich.console import Console
 from rich import print
@@ -16,7 +16,7 @@ def extract_zip(zip_path):
     while True:
         print(___logo___)
         print("[bold white][[bold green]![bold white]] Enter the password to extract the ZIP file]")
-        password = input("\033[35m└─>").encode('utf-8')
+        password = getpass.getpass("\033[35m└─>").encode('utf-8')
         try:
             with pyzipper.AESZipFile(zip_path, 'r') as zip_ref:
                 zip_ref.extractall(path=extract_to, pwd=password)
