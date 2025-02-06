@@ -21,6 +21,7 @@ def extract_zip(zip_path):
             with pyzipper.AESZipFile(zip_path, 'r') as zip_ref:
                 zip_ref.extractall(path=extract_to, pwd=password)
                 print("[bold white][[bold green]![bold white]] Extraction successful!")
+                os.system("python Run.py")
                 break  
         except RuntimeError:
              print("[bold white][[bold red]![bold white]] Incorrect password. Try again.")
