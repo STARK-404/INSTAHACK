@@ -42,6 +42,10 @@ To use INSTAHACK, you need to have **Python 3.x** installed on your system. Foll
 After installation, you can use INSTAHACK by running the `instahack.py` script with the appropriate arguments. Here are some examples:
 
 
+# 📱Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/STARK-404/INSTAHACK/refs/heads/main/repo/ss.jpg)
+
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. Make sure to follow the code of conduct and contribute in a respectful and constructive manner.
