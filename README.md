@@ -10,39 +10,32 @@ This tool is intended for **educational purposes only**. The developers of INSTA
 
 ---
 
-## Features
+## 🌟Features
 
 - **Auto Bruteforce**: Automatically generates and tests potential passwords without requiring a password list.
 - **No Password List Needed**: Eliminates the need for a pre-defined password list, making it more efficient.
 - **Multi-threading**: Utilizes multi-threading for faster password cracking.
 - **User-Friendly**: Simple and easy-to-use interface for both beginners and advanced users.
 - **Cross-Platform**: Works on Windows, Linux, and macOS.
-
+- **Auto update** : it's update Automatically
 ---
 
-## Installation
+## 🛠️Installation
 
 To use INSTAHACK, you need to have **Python 3.x** installed on your system. Follow these steps to install and set up the tool:
 
-1. **Clone the Repository**:
+
    ```bash
+   apt install python3 git 
    git clone https://github.com/STARK-404/INSTAHACK.git
    cd INSTAHACK
-   ```
-
-2. **Install Dependencies**:
-   ```bash
    pip install -r requirements.txt
-   ```
-
-3. **Run the Tool**:
-   ```bash
    python instahack.py
    ```
 
 ---
 
-## Usage
+## 💻Usage
 
 After installation, you can use INSTAHACK by running the `instahack.py` script with the appropriate arguments. Here are some examples:
 
@@ -53,19 +46,19 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 ---
 
-## License
+## 📝License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-## Support
+## 👥Support
 
 If you find this tool useful, consider supporting the developer by **starring the repository** or making a donation. Your support helps in maintaining and improving the tool.
 
 ---
 
-## Contact
+## 📧Contact
 
 For any questions or inquiries, please contact the developer at [Mailme:)](mailto:gamerunknown509@gmail.com).
 
