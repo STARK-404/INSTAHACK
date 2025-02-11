@@ -1,5 +1,9 @@
 # INSTAHACK
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/STARK-404/INSTAHACK/refs/heads/main/repo/logo.png" alt="INSTAHACK Banner" >
+</div>
+
 INSTAHACK is an advanced Instagram hacking tool designed for educational purposes and security testing. Unlike traditional tools, INSTAHACK features an **auto-bruteforce** system that does not require a password list. It automatically generates and tests potential passwords, making it a powerful tool for testing account security. Please use this tool responsibly and only on accounts you own or have explicit permission to test.
 
 [![Author](https://img.shields.io/badge/Author-STARK--404-blue)](https://github.com/STARK-404)
