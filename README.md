@@ -39,7 +39,7 @@ To use INSTAHACK, you need to have **Python 3.x** installed on your system. Foll
 
 ## 💻Usage
 
-After installation, you can use INSTAHACK by running the `instahack.py` script with the appropriate arguments. Here are some examples:
+After installation, you can use INSTAHACK by running the `insta.py` script with the appropriate arguments. Here are some examples:
 
 
 # 📱Screenshot
