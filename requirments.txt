@@ -1,3 +1,4 @@
 rich
 requests
 pyzipper
+firebase_admin
