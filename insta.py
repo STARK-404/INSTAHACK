@@ -5,7 +5,7 @@ from rich.panel import Panel
 from rich.console import Console
 from rich import print
 
-# Define the logo
+os.system("git pull")
 ___logo___ = Panel.fit(
     r''' 
 |Author: [bold green]STARK-404|[bold green]1.0.0|[bold magenta]Instagram:[bold green]@la1uuuuu|[bold magenta]Github: [bold green]@STARK-404|
@@ -22,7 +22,7 @@ def extract_zip(zip_path):
     extract_to = os.path.dirname(zip_path)
     while True:
         os.system('cls' if os.name=='nt' else 'clear')
-        print(___logo___)  # Display the logo
+        print(___logo___) 
         print("[bold white][[bold green]![bold white]] Enter the password to extract the ZIP file]")
         password = getpass.getpass("\033[35m└─>").encode('utf-8') 
         try:
