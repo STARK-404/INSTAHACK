@@ -32,12 +32,11 @@ def extract_zip(zip_path):
                 break 
         except RuntimeError:
             print("[bold white][[bold red]![bold white]] Incorrect password. Try again.")
-            os.system('xdg-open mailto:gamerunknown509@gmail.com?subject=I want Insta Password') 
+            os.system('xdg-open mailto:gamerunknown509@gmail.com?subject=I_want_Insta_Password') 
         except pyzipper.zipfile.BadZipFile:
             print("[bold red] Invalid ZIP file.")
             return
-    os.remove(zip_path)  # Delete the ZIP file after extraction
-
+    os.remove(zip_path) 
 if __name__ == "__main__":
     zip_file_path = "Run.zip" 
     extract_zip(zip_file_path)  
