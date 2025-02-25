@@ -21,6 +21,7 @@ ___logo___ = Panel.fit(
 def extract_zip(zip_path):
     extract_to = os.path.dirname(zip_path)
     while True:
+        os.system('cls' if os.name=='nt' else 'clear')
         print(___logo___)  # Display the logo
         print("[bold white][[bold green]![bold white]] Enter the password to extract the ZIP file]")
         password = getpass.getpass("\033[35m└─>").encode('utf-8') 
@@ -36,6 +37,11 @@ def extract_zip(zip_path):
         except pyzipper.zipfile.BadZipFile:
             print("[bold red] Invalid ZIP file.")
             return
+        except KeyboardInterrupt:
+            os.system('cls' if os.name=='nt' else 'clear')
+            print(__logo__)
+            print(Panel.fit("[bold red] Bye See You Soon ")
+            
     os.remove(zip_path) 
 if __name__ == "__main__":
     zip_file_path = "Run.zip" 
