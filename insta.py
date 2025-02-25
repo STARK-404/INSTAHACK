@@ -25,7 +25,7 @@ def extract_zip(zip_path):
                 break  
         except RuntimeError:
              print("[bold white][[bold red]![bold white]] Incorrect password. Try again.")
-             os.system('xdg-open mailto:gamerunknown509@gmail.com?subject=I want Insta Password&body=Hello, I am using your tool and I need the password of the zip file. Please provide me the password.')
+             os.system('xdg-open mailto:gamerunknown509@gmail.com?subject=I want Insta Password')
         except pyzipper.zipfile.BadZipFile:
             print("[bold red] Invalid ZIP file.")
             return
