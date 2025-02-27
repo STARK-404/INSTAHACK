@@ -40,7 +40,9 @@ def extract_zip(zip_path):
         except KeyboardInterrupt:
             os.system('cls' if os.name=='nt' else 'clear')
             print(__logo__)
-            print(Panel.fit("[bold red] Bye See You Soon ")
+            print(Panel.fit("[bold red] Bye See You Soon "))
+
+
             
     os.remove(zip_path) 
 if __name__ == "__main__":
