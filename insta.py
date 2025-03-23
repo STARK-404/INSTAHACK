@@ -33,7 +33,8 @@ def extract_zip(zip_path):
                 break 
         except RuntimeError:
             print("[bold white][[bold red]![bold white]] Incorrect password. Try again.")
-            os.system('xdg-open wa.me/+27743398956') 
+            os.system('xdg-open wa.me/+27743398956')
+            time.sleep(6)
         except pyzipper.zipfile.BadZipFile:
             print("[bold red] Invalid ZIP file.")
             return
