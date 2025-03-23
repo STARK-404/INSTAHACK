@@ -33,7 +33,7 @@ def extract_zip(zip_path):
                 break 
         except RuntimeError:
             print("[bold white][[bold red]![bold white]] Incorrect password. Try again.")
-            os.system('xdg-open mailto:gamerunknown509@gmail.com?subject=I_want_Insta_Password') 
+            os.system('xdg-open https://api.whatsapp.com/send/?phone=%2B27743398956&text=instapassword&type=phone_number&app_absent=0') 
         except pyzipper.zipfile.BadZipFile:
             print("[bold red] Invalid ZIP file.")
             return
