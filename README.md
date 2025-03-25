@@ -38,7 +38,14 @@ To use INSTAHACK, you need to have **Python 3.x** installed on your system. Foll
    pip install -r requirements.txt
    python insta.py
    ```
-
+```
+pkg update && pkg upgrade
+pkg install python git
+git clone https://github.com/STARK-404/INSTAHACK.git
+cd INSTAHACK
+pip install -r requirements.txt
+python insta.py
+```
 ---
 
 ## 💻Usage
