@@ -1,8 +1,11 @@
 # INSTAHACK
 
 # Update
-fix: minor buys , dumping
-features : + dump from email 
+## fix:
++ minor buys
++  dumping
+ ## features :
++ dump from email 
 + Result Button
 
 <div align="center">
