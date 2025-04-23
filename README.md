@@ -2,11 +2,11 @@
 
 # Update
 ## fix:
-+ minor buys
-+  dumping
++ ++minor buys
++  ++dumping
  ## features :
-+ dump from email 
-+ Result Button
++ ++dump from email 
++ ++Result Button
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/STARK-404/INSTAHACK/refs/heads/main/repo/logo.png" alt="INSTAHACK Banner" >
