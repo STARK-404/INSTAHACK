@@ -1,5 +1,10 @@
 # INSTAHACK
 
+# Update
+fix: minor buys , dumping
+features : + dump from email 
++ Result Button
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/STARK-404/INSTAHACK/refs/heads/main/repo/logo.png" alt="INSTAHACK Banner" >
 </div>
@@ -9,6 +14,7 @@ INSTAHACK is an advanced Instagram hacking tool designed for educational purpose
 [![Author](https://img.shields.io/badge/Author-STARK--404-blue)](https://github.com/STARK-404)
 
 ---
+
 
 ## Disclaimer
 
