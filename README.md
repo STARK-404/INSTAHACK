@@ -44,7 +44,7 @@ To use INSTAHACK, you need to have **Python 3.x** installed on your system. Foll
    apt install python3 git 
    git clone https://github.com/STARK-404/INSTAHACK.git
    cd INSTAHACK
-   pip install -r requirements.txt
+   pip install -r requirments.txt
    python insta.py
    ```
 Termux
@@ -53,7 +53,7 @@ pkg update && pkg upgrade
 pkg install python git
 git clone https://github.com/STARK-404/INSTAHACK.git
 cd INSTAHACK
-pip install -r requirements.txt
+pip install -r requirments.txt
 python insta.py
 ```
 ---
