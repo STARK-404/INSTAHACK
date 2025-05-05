@@ -2,11 +2,11 @@
 
 # Update
 ## fix:
-+ ++minor buys
-+  ++dumping
++ minor bugs
++ Dumping
  ## features :
-+ ++dump from email 
-+ ++Result Button
++ Dump from email 
++ Result Button
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/STARK-404/INSTAHACK/refs/heads/main/repo/logo.png" alt="INSTAHACK Banner" >
@@ -87,15 +87,15 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 If you find this tool useful, consider supporting the developer by **starring the repository** or making a donation. Your support helps in maintaining and improving the tool.
 
 [![Telegram](https://img.shields.io/badge/Telegram-MR__S74RK-blue?logo=telegram)](https://t.me/MR_S74RK)
-[![Instagram](https://img.shields.io/badge/Instagram-la1uuuuu-red?logo=instagram)](https://instagram.com/la1uuuuu)
-[![Email](https://img.shields.io/badge/Email-gamerunknown509%40gmail.com-green?logo=gmail)](mailto:gamerunknown509@gmail.com?subject=Insta)
+[![Instagram](https://img.shields.io/badge/Instagram-la1uuuuu-red?logo=instagram)](https://instagram.com/)
+[![Email](https://img.shields.io/badge/Email-gamerunknown509%40gmail.com-green?logo=gmail)](mailto:lautaronahuelus@gmail.com?subject=Insta)
 
 ---
 
 ## 📧Contact
 
 
-For any questions or inquiries, please contact the developer at [Mailme:)](mailto:gamerunknown509@gmail.com).
+For any questions or inquiries, please contact the developer at [Mailme:)](mailto:lautaronahuelus@gmail.com).
 
 ---
 
