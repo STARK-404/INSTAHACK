@@ -7,6 +7,7 @@
  ## features :
 + Dump from email 
 + Result Button
++ individual user cracking (comming soon)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/STARK-404/INSTAHACK/refs/heads/main/repo/logo.png" alt="INSTAHACK Banner" >
