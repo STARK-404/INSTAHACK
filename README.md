@@ -1,6 +1,6 @@
 # INSTAHACK
 
-# Update
+# Updated
 ## fix:
 + minor bugs
 + Dumping
