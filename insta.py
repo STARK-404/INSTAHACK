@@ -36,7 +36,7 @@ def extract_zip(zip_path):
         except RuntimeError:
             print("[bold white][[bold red]![bold white]] Incorrect password. Try again.")
             print("[!]  If you want to use Instahack buy the password from next page when you click enter! \n Press enter \n You Have Been Redirected To Payment Page!! \n any enquires contact me @gamerunknown509@gmail.com ")
-            prob = input()
+            
 
             os.system('xdg-open https://buymeacoffee.com/unknownshou/e/466498')
             time.sleep(6)
@@ -54,6 +54,7 @@ def extract_zip(zip_path):
 if __name__ == "__main__":
     zip_file_path = "Run.zip" 
     extract_zip(zip_file_path)  
+
 
 
 
