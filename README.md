@@ -1,13 +1,15 @@
 # INSTAHACK
 
 # Updated
-## fix:
-+ minor bugs
-+ Dumping
+
  ## features :
-+ Dump from email 
++ Added Manual Password Adder
++ Dump from Hashtag
 + Result Button
-+ individual user cracking (comming soon)
+## fix:
++ cracked cookie => Header string 
+  
+  
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/STARK-404/INSTAHACK/refs/heads/main/repo/logo.png" alt="INSTAHACK Banner" >
