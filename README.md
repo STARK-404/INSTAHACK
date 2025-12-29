@@ -7,7 +7,7 @@
 + Dump from Hashtag
 + Result Button
 ## fix:
-+ cracked cookie => Header string 
++ Fixed Extraction Bugs 
   
   
 
