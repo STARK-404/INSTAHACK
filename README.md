@@ -1,4 +1,4 @@
-# INSTAHACK V2.0.1
+# INSTAHACK V2.0.2
 
 # Updated
 
@@ -7,7 +7,8 @@
 + Dump from Hashtag
 + Result Button
 ## fix:
-+ Fixed Extraction Bugs 
++ Fixed Extraction Bugs
++ Fixed Pyamrorextraction bug
   
   
 
