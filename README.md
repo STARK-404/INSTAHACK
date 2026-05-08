@@ -9,6 +9,7 @@
 ## fix:
 + Fixed Extraction Bugs
 + Fixed Pyamrorextraction bug✅
++ fixed cookie Issue
   
   
 
