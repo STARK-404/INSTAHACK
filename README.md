@@ -1,4 +1,4 @@
-# INSTAHACK V2.0.2
+# INSTAHACK V3.0
 
 # Updated
 
@@ -6,10 +6,12 @@
 + Added Manual Password Adder
 + Dump from Hashtag
 + Result Button
++ more proxy
 ## fix:
 + Fixed Extraction Bugs
 + Fixed Pyamrorextraction bug✅
-+ fixed cookie Issue
++ Fixed cookie Issue
++ Fixed Rate Limit
   
   
 
