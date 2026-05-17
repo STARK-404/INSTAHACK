@@ -1,4 +1,6 @@
 rich
 requests
 pyzipper
+cython
+setuptools
 
