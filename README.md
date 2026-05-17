@@ -1,6 +1,6 @@
 # INSTAHACK V3.0
 
-# Updated
+# Updated May 2026
 
  ## features :
 + Added Manual Password Adder
@@ -74,6 +74,8 @@ After installation, you can use INSTAHACK by running the `insta.py` script with 
 [![Watch the video](https://img.youtube.com/vi/7PZQa-l8Jcg/maxresdefault.jpg)](https://www.youtube.com/watch?v=7PZQa-l8Jcg)
 
 # 📱Screenshot
+## May 2026
+![Screenshot](https://raw.githubusercontent.com/STARK-404/INSTAHACK/refs/heads/main/repo/Screenshot-2026-05-17-123311.png)
 
 ![Screenshot](https://raw.githubusercontent.com/STARK-404/INSTAHACK/refs/heads/main/repo/ss.jpg)
 
