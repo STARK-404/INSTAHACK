@@ -3,13 +3,11 @@
 # Updated May 2026
 
  ## features :
-+ Added Manual Password Adder
-+ Dump from Hashtag
++ Added Cython Obfuscation
 + Result Button
-+ more proxy
++ More proxy
 ## fix:
 + Fixed Extraction Bugs
-+ Fixed Pyamrorextraction bug✅
 + Fixed cookie Issue
 + Fixed Rate Limit
   
