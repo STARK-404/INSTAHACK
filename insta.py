@@ -10,7 +10,7 @@ from rich import print
 os.system("git pull")
 ___logo___ = Panel.fit(
     r''' 
-|Author: [bold green]STARK-404|[bold green]1.0.0|[bold magenta]Instagram:[bold green]@la1uuuuu|[bold magenta]Github: [bold green]@STARK-404|
+|Author: [bold green]STARK-404|[bold green]3.0.0|[bold magenta]Instagram:[bold green]@la1uuuuu|[bold magenta]Github: [bold green]@STARK-404|
  ___       __ ___             _   _ 
   |  |\ | (_   |  /\ __ |\/| |_) |_ 
  _|_ | \| __)  | /--\   |  | |_) |  
