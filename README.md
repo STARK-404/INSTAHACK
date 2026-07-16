@@ -1,6 +1,6 @@
 # INSTAHACK V3.0
 
-# Updated May 2026
+# Updated JULY 2026
 
  ## features :
 + Added Cython Obfuscation
