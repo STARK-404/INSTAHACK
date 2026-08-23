@@ -1,11 +1,11 @@
-# INSTAHACK V3.1
+# INSTAHACK V3.2
 
-# Updated JULY 2026
+# Updated AUGUST 2026
 
  ## features :
 + Added Cython Obfuscation
 + Result Button
-+ More proxy
++ Fresh Proxy
 ## fix:
 + Fixed Extraction Bugs
 + Fixed cookie Issue
