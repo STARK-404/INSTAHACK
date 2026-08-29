@@ -8,6 +8,8 @@ from rich.panel import Panel
 from rich.console import Console
 from rich import print
 
+console = Console()
+
 os.system("git pull")
 ___logo___ = Panel.fit(
     r''' 
@@ -25,29 +27,29 @@ def extract_zip(zip_path):
     extract_to = os.path.dirname(zip_path)
     while True:
         os.system('cls' if os.name=='nt' else 'clear')
-        print(___logo___) 
-        print("[bold white][[bold green]![bold white]] Enter the password to extract the ZIP file]")
+        console.print(___logo___) 
+        console.print("[bold white][[bold green]![bold white]] Enter the password to extract the ZIP file]")
         password = getpass.getpass("\033[35m└─>").encode('utf-8') 
         try:
             with pyzipper.AESZipFile(zip_path, 'r') as zip_ref:
                 zip_ref.extractall(path=extract_to, pwd=password)
-                print("[bold white][[bold green]![bold white]] Extraction successful!")
+                console.print("[bold white][[bold green]![bold white]] Extraction successful!")
                 os.system("python Run.py") 
                 break 
         except RuntimeError:
-            print("[bold white][[bold red]![bold white]] Incorrect password. Try again.")
-            print("[!]  If you want to use Instahack buy the password from next page when you click enter! \n Press enter \n You Have Been Redirected To Payment Page!! \n any enquires contact me @gamerunknown509@gmail.com ")
+            console.print("[bold white][[bold red]![bold white]] Incorrect password. Try again.")
+           console.print("[!]  If you want to use Instahack buy the password from next page when you click enter! \n Press enter \n You Have Been Redirected To Payment Page!! \n any enquires contact me @gamerunknown509@gmail.com ")
             
 
             os.system('xdg-open https://buymeacoffee.com/mrstarkin/e/471721')
             time.sleep(6)
         except pyzipper.zipfile.BadZipFile:
-            print("[bold red] Invalid ZIP file.")
+            console.print("[bold red] Invalid ZIP file.")
             return
         except KeyboardInterrupt:
             os.system('cls' if os.name=='nt' else 'clear')
-            print(__logo__)
-            print(Panel.fit("[bold red] Bye See You Soon "))
+            console.print(__logo__)
+            console.print(Panel.fit("[bold red] Bye See You Soon "))
 
 
             
