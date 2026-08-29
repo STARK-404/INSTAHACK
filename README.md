@@ -1,14 +1,7 @@
 # INSTAHACK V5.0
 
 
- ## features :
-- Removed Cython
-+ Added New Cracking Methods
-+ Fresh Proxies
-## fix:
-+ Fixed Extraction Bugs
-+ Fixed cookie Issue
-+ Fixed Rate Limit
+
   
   
 
@@ -22,6 +15,14 @@ INSTAHACK is an advanced Instagram hacking tool designed for educational purpose
 [![Author](https://img.shields.io/badge/Author-STARK--404-blue)](https://github.com/STARK-404)
 
 ---
+ ## features :
+- Removed Cython
++ Added New Cracking Methods
++ Fresh Proxies
+## fix:
++ Fixed Extraction Bugs
++ Fixed cookie Issue
++ Fixed Rate Limit
 
 
 ## Disclaimer
